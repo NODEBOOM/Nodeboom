@@ -1,10 +1,9 @@
 
+![logo](https://github.com/user-attachments/assets/de0e1af0-2c0f-4987-b686-576fc3d45bfe)
 
 
-![6174918840337677723-removebg-preview](https://github.com/user-attachments/assets/7d6b7fa7-bd26-4f37-b264-f1688ce6899c)
+Selamat datang 
 
-
-Selamat datang !
 Kami sangat senang untuk menyajikan panduan yang akan membimbing Anda melalui langkah-langkah menjalankan validator dalam proyek Blockchain selama fase pengujian. Tutorial ini dirancang untuk memberikan pemahaman yang jelas dan langkah-langkah praktis guna memastikan eksekusi validator berjalan dengan sukses.
 
 Dalam dunia proyek Blockchain, fase pengujian memainkan peran krusial dalam mengidentifikasi potensi masalah dan memastikan kinerja berkelanjutan. Panduan ini disusun dengan tujuan memberdayakan tim pengembangan (DEV) untuk menjalankan validator dengan efisien, sehingga menjadikan tugas yang diberikan oleh DEV lebih lancar.
