@@ -1,6 +1,7 @@
 
+![Uploading 6174918840337677723-removebg-preview (1).png…]()
 
-Selamat datang ![6174918840337677723](https://github.com/user-attachments/assets/9e775ea7-63c7-4a9a-b747-4cb64f3f9e5d)
+Selamat datang 
 
 
 Kami sangat senang untuk menyajikan panduan yang akan membimbing Anda melalui langkah-langkah menjalankan validator dalam proyek Blockchain selama fase pengujian. Tutorial ini dirancang untuk memberikan pemahaman yang jelas dan langkah-langkah praktis guna memastikan eksekusi validator berjalan dengan sukses.
