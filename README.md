@@ -1,7 +1,6 @@
 
 
-![Uploading 6174918840337677723-removebg-preview.png…]()
-
+![6174918840337677723](https://github.com/user-attachments/assets/77018ef2-f042-4e57-aea0-8f1b35d4d988)
 
 
 Selamat datang 
