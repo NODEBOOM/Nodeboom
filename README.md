@@ -1,6 +1,5 @@
 
-![logo](https://github.com/user-attachments/assets/de0e1af0-2c0f-4987-b686-576fc3d45bfe)
-
+![Uploading logo-removebg-preview (1).png…]()
 
 Selamat datang 
 
